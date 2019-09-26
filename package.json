@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-nodejs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/balasasidhar/jenkins-nodejs-sample",
+  "author": "QuestDot Software India Pvt Ltd <questdotsoft@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
